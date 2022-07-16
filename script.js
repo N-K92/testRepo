@@ -97,3 +97,4 @@ btnHold.addEventListener('click', function () {
 btnNew.addEventListener('click', init);
 console.log('hello world');
 console.log('hello world');
+console.log('new feature!');
